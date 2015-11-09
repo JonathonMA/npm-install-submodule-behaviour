@@ -1,0 +1,11 @@
+{
+  "name": "npm-install-submodule-behaviour",
+  "version": "0.0.1",
+  "private": true,
+  "license": "UNLICENSED",
+  "dependencies": {
+    "submodule1": "file:./components/submodule1",
+    "submodule2": "file:./components/submodule2",
+    "react": "^0.14.2"
+  }
+}
